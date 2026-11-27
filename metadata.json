@@ -1,0 +1,6 @@
+{
+  "name": "MEDILIGHT",
+  "description": "An accessible, senior-friendly medicine reminder application with voice assistance, daily scheduling, and persistent reminders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
